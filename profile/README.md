@@ -3,6 +3,7 @@ You can watch the videos of the sessions from the following link. This is a Yout
 
 #### https://www.youtube.com/watch?v=CtVVaH6Pvs8&list=PLLmNg_q93meyO9acorOZZeaRkiRlssRUO
 (Ensure you login to to YouTube with right email address to watch the videos)
+
 Any issues drop me an email: raghuk.vit@gmail.com
 
 ### Lab Query Sessions:

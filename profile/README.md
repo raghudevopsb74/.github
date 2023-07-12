@@ -1,3 +1,9 @@
+### How to Make Notes:
+During the training days you need to spend time and make notes, As it really benefit you in long term, So I would suggest to make in the way that is explained in the following video.
+Feel free to follow your own pattern that works for you, Only expectation is the that should help you in referencing the content whenever you need it.
+
+### https://youtu.be/JwqtkS3Qk4k
+
 ### Documentation Link:
 We have a project in our training, Also we have some more generic topics documented and all those details are found in this link.
 

@@ -35,6 +35,8 @@ This website we use it for learning linux in the first week of training.
 
 #### https://killercoda.com/rkalluru
 
+#### CentOS8 AWS Linux Credentials - centos/DevOps321
+
 #### AWS Account SignUP Video :	 https://www.youtube.com/watch?v=JFwAS_8BZvM
 #### AWS Account SignUP URL :	   https://portal.aws.amazon.com/billing/signup#/start/email
 

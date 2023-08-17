@@ -1,6 +1,3 @@
-# No sessions on following days.
-## India Students - Aug 12,13,14,15 
-## USA Students - Aug 11,12,13,14 
 
 ### How to Make Notes:
 During the training days you need to spend time and make notes, As it really benefit you in long term, So I would suggest to make in the way that is explained in the following video.

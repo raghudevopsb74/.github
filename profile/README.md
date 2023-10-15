@@ -31,7 +31,7 @@ This access is lifelong & You can always reach for the problems that you have in
 ### Miro Dashboard:
 We make some mindmap diagrams during the training, That diagrams and notes can be viewed on this link.
 
-#### https://miro.com/app/board/uXjVM51SnSE=/?share_link_id=765485176346
+#### https://miro.com/app/board/uXjVNaGJDK0=/?share_link_id=62553421498
 
 ### Killercoda:
 

@@ -31,7 +31,7 @@ This access is lifelong & You can always reach for the problems that you have in
 ### Miro Dashboard:
 We make some mindmap diagrams during the training, That diagrams and notes can be viewed on this link.
 
-#### https://miro.com/app/board/uXjVNaGJDK0=/?share_link_id=62553421498
+#### https://miro.com/app/board/uXjVM51SnSE=/?share_link_id=765485176346
 
 ### Killercoda:
 
@@ -47,4 +47,3 @@ This website we use it for learning linux in the first week of training.
 #### GitHub SingUP URL: https://github.com
 
 #### AWS Login Page : https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#
-
